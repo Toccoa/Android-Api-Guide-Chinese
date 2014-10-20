@@ -1,1 +1,2 @@
-baseurl: /Android-Api-Guide-Chinese
+markdown: rdiscount
+pygments: true
